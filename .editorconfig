@@ -1,5 +1,5 @@
 # EditorConfig is awesome: https://EditorConfig.org
-
+node_modules
 # top-most EditorConfig file
 root = true
 
