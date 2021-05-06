@@ -1,0 +1,66 @@
+.cont1 {
+  box-shadow: 0 0 0 1px black;
+  padding: 10px;
+  background-color: rgb(174, 194, 194);
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.cont2 {
+  box-shadow: 0 0 0 1px black;
+  padding: 10px;
+  background-color: rgb(174, 194, 194);
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 10px !important;
+  height: 100%;
+}
+
+.hijo {
+  padding: 20px;
+  background-color: rgb(174, 194, 194);
+  flex-grow: 20;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.cuadro {
+  padding: 5px;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.cuadro div {
+  flex: auto;
+  margin: 2px;
+}
+
+.btones {
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.btones div {
+  padding: 1px;
+}
+
+.btones button {
+  flex-basis: 200px;
+  background-color: cyan;
+}
+
+.CuadroLista {
+  background-color: #ececec;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.Buscador {
+  width: 100%;
+}
