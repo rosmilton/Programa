@@ -1,0 +1,7 @@
+.CuadroLista tr{
+    display: flex;
+}
+
+.CuadroLista th{
+    flex: auto;
+}
